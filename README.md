@@ -1,4 +1,4 @@
-#  CSM Tech App
+#  Crud App
 
 +  showcasing Knowledge in Core Java, Hibernate, MySQL, Maven.
 
