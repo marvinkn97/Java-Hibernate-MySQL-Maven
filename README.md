@@ -1,4 +1,4 @@
-#  Crud App
+#  CRUD App
 
 +  showcasing Knowledge in Core Java, Hibernate, MySQL, Maven.
 
